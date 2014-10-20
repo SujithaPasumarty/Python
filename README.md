@@ -1,4 +1,0 @@
-Python
-======
-
-Coursera Python Projects
